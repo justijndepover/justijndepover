@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![image](https://github.com/justijndepover/justijndepover/blob/master/logo.svg)
+
 <!--
 **justijndepover/justijndepover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
